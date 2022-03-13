@@ -45,8 +45,6 @@ function Listing() {
                     ))}
                 </div>
             </div>
-
-            <MovieScore />
         </>
     );
 }
